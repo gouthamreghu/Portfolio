@@ -4,8 +4,11 @@ This portfolio showcases a collection of my projects and skills, developed using
 
 ## Features
 Responsive Design: Built with responsiveness in mind, ensuring optimal viewing experience across various devices and screen sizes.
+
 Project Gallery: Browse through a selection of my projects, each with its description and live demo link.
+
 Skill Showcase: Learn about the technologies and skills I possess, organized neatly for easy reference.
+
 Contact Form: Reach out to me easily using the provided contact form.
 
 ## Technologies Used
