@@ -168,6 +168,16 @@ h3 {
   background: url(../assets/project/Realestate.png) center center/cover;
 }
 
+/* Project 4 */
+.card:nth-child(4) {
+  background: url(../assets/project/Echowear.png) center center/cover;
+}
+
+/* Project 5 */
+.card:nth-child(5) {
+  background: url(../assets/project/Subly.png) center center/cover;
+}
+
 
 /* Media Queries */
 @media (max-width: 768px) {
