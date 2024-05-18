@@ -178,6 +178,11 @@ h3 {
   background: url(../assets/project/Subly.png) center center/cover;
 }
 
+/* Project 6 */
+.card:nth-child(6) {
+  background: url(../assets/project/banner.png) center center/cover;
+}
+
 
 /* Media Queries */
 @media (max-width: 768px) {
